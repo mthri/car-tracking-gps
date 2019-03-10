@@ -18,6 +18,7 @@ Connections:
 
 
    GPS NEO-6M:
+   
     VCC => 3.3v
     GND => GND
     RX  => 3 
