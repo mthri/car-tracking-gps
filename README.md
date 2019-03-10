@@ -1,5 +1,4 @@
-# GPS
-Car Tracking by Arduino Uno (GSM a6 mini &amp; GPS NEO-6M)
+# Car Tracking by Arduino Uno (GSM a6 mini &amp; GPS NEO-6M)
 
 
 Before upload project to arduino you must add "Tiny GPS Plus Plus" to your arduino ide.
